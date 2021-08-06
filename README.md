@@ -13,3 +13,7 @@ This repository is used to store my progress of the [CS50](https://www.edx.org/c
 * Problem Set 7: Movies, Fiftyville - [SQL] - [pset7](https://cs50.harvard.edu/x/2021/psets/7/)
 * Problem Set 8: Homepage - [HTML, CSS, JavaScript] - [pset8](https://cs50.harvard.edu/x/2021/psets/8/)
 * Problem Set 9: Finance - [Python, HTML, CSS, SQL] - [pset9](https://cs50.harvard.edu/x/2021/psets/9/)
+
+## Final Project
+
+The [final project](https://cs50.harvard.edu/x/2021/project/), an interactive web application for climbers, can be found in an individual repository [here](https://github.com/KevinSchaer/ClimbingTool).
